@@ -93,3 +93,4 @@ vendor/lib/libmmcamera2_frame_algorithm.so
 vendor/lib/libmmcamera2_stats_algorithm.so
 vendor/lib/libmmcamera_tintless_bg_pca_algo.so
 vendor/lib/libmmcamera2_stats_algorithm_sensors.so
+vendor/lib/libRSDriver_adreno.so
