@@ -17,5 +17,3 @@
 # Inherit from m1-common
 $(call inherit-product, device/lge/m1-common/m1.mk)
 
-# Blobs
-$(call inherit-product-if-exists, vendor/lge/m1/m1-vendor.mk)
