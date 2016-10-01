@@ -6,6 +6,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit device configuration
 $(call inherit-product, device/lge/m1/full_m1.mk)
+$(call inherit-product-if-exists, vendor/lge/m1/m1-vendor.mk)
 
 # Discard inherited values and use our own instead.
 PRODUCT_NAME := omni_m1
