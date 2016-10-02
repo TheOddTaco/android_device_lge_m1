@@ -17,13 +17,13 @@
 # This variable is set first, so it can be overridden
 # by BoardConfigVendor.mk
 
--include device/lge/m1-common/BoardConfigCommon.mk
-
 # Kernel
+TARGET_PREBUILT_KERNEL := device/lge/m1/kernel
 TARGET_KERNEL_SOURCE := kernel/lge/m1
 TARGET_KERNEL_CONFIG := m1_mpcs_us_defconfig
 
 # TWRP
 DEVICE_RESOLUTION := 480 x 854
 
+-include device/lge/m1-common/BoardConfigCommon.mk
 
