@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="TheOddTaco/android_device_lge_m1" path="device/lge/m1" remote="github" revision="cm-12.1" />
+  <project name="TheOddTaco/android_device_lge_m1-common" path="device/lge/m1-common" remote="github" revision="cm-12.1" />
+  <project name="TheOddTaco/android_kernel_lge_m1" path="kernel/lge/m1" remote="github" revision="master" />
+  <project name="TheOddTaco/proprietary_vendor_lge_m1" path="vendor/lge/m1" remote="github" revision="Omni/CM" />
+</manifest>
