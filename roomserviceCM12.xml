@@ -4,4 +4,5 @@
   <project name="TheOddTaco/android_device_lge_m1-common" path="device/lge/m1-common" remote="github" revision="cm-12.1" />
   <project name="TheOddTaco/android_kernel_lge_m1" path="kernel/lge/m1" remote="github" revision="master" />
   <project name="TheOddTaco/proprietary_vendor_lge_m1" path="vendor/lge/m1" remote="github" revision="Omni/CM" />
+   <project name="OmniROM/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-6.0" />
 </manifest>
