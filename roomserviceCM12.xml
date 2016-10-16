@@ -5,4 +5,5 @@
   <project name="TheOddTaco/android_kernel_lge_m1" path="kernel/lge/m1" remote="github" revision="master" />
   <project name="TheOddTaco/proprietary_vendor_lge_m1" path="vendor/lge/m1" remote="github" revision="Omni/CM" />
   <project name="OmniROM/android_bootable_recovery" path="bootable/recovery-twrp" remote="github" revision="android-6.0" />
+  <project name="CyanogenMod/android_external_busybox" path="external/busybox" remote="github" revision="cm-13.0" />
 </manifest>
