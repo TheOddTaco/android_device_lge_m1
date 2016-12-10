@@ -69,8 +69,8 @@ BOARD_CHARGER_ENABLE_SUSPEND := true
 BOARD_CHARGER_SHOW_PERCENTAGE := true
 
 # CMHW
-# BOARD_HARDWARE_CLASS := \
-#   device/lge/m1/cmhw
+BOARD_HARDWARE_CLASS := \
+  device/lge/m1/cmhw
 
 # Enables CSVT
 TARGET_USES_CSVT := true
