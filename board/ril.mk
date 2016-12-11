@@ -1,0 +1,3 @@
+# RIL
+BOARD_RIL_CLASS := ../../../device/lge/msm8909-common/ril/
+TARGET_RELEASE_CPPFLAGS += -DNEEDS_LGE_RIL_SYMBOLS

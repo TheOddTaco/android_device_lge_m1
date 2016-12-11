@@ -1,0 +1,10 @@
+# Bootloader
+TARGET_BOOTLOADER_BOARD_NAME := qcom
+
+# Vendor platform
+BOARD_VENDOR := lge
+BOARD_VENDOR_PLATFORM := m1
+
+# Images
+TARGET_NO_BOOTLOADER := true
+TARGET_NO_RADIOIMAGE := true
